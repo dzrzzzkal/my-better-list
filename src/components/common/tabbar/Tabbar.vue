@@ -3,7 +3,7 @@
     <slot></slot>
   </div>
 </template>
-<style scoped>
+<style scoped lang="scss">
 .tabbar-line {
   width: 100%;
   height: 56px;
